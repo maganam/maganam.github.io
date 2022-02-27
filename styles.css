@@ -1,0 +1,111 @@
+body
+{background-color: #add8e6;
+}
+
+.page{
+  border:1px solid black;
+  height: 1300px;
+  width: 700px;
+  background:  white;
+  padding-top: 40px;
+  margin-top: 60px;
+  margin-left: 275px;
+  margin-right: 150px;
+}
+
+.Name
+{
+text-align: center;
+font-weight: bold;
+line-height: 60%;
+
+}
+
+.contact
+{
+	text-align: center;
+	line-height: 40%;
+}
+
+}
+.statement
+{
+padding-left: 50px;
+line-height: 40%;
+font-family: "Times New Roman";
+
+}
+.body-statement
+{
+	padding-left:50px ;
+	font-family: "Times New Roman";
+	padding-right: 60px;
+	font-size: 14px;
+}
+
+hr
+{
+	size: 2px;
+	color: black;
+	align: center;
+	width: 87%;
+
+}
+
+h3
+{
+font-weight:bold ;
+padding-left: 50px;
+line-height: 20%;
+font-family: "Times New Roman";
+}
+
+thead
+{
+text-align: left;
+font-size: 17px;
+font-family: "Times New Roman";
+}
+
+
+table
+{
+	margin-left:50px ;
+	margin-right: 50px;
+	margin-top: 20px;
+	width:  87%;
+}
+
+#firstB
+{
+font-weight: bold;
+font-size: 15px;
+font-family: "Times New Roman";
+}
+#dateL
+{
+	font-size: 13px;
+	text-align: right;
+	font-family: "Times New Roman";
+}
+
+#secB
+{
+	font-size: 15px;
+	font-weight: bold;
+	font-style: italic;
+	font-family: "Times New Roman";
+}
+
+#list
+{
+	font-size: 15px;
+	font-family: "Times New Roman";
+}
+
+
+
+a:link{
+	color:  #6374d9;
+}
+
